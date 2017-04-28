@@ -19,4 +19,6 @@ Screenshot of Sulit and Noth working on this page
 Here is how we added this image
 `![alt text](https://raw.githubusercontent.com/sarayapsulit/phase-0-gps-1/master/gps_screenshot_1.png)`
 
-goodbye
+
+hello
+
