@@ -17,3 +17,4 @@ GPS 1.1
 <history> shows the log of your commands in Terminal
 <git checkout --help> retrieves all the documentation about using checkout in git
 <git --help> retrieves all the documentation about git commands
+hello
