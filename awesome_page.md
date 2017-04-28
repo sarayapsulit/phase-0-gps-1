@@ -20,5 +20,4 @@ Here is how we added this image
 `![alt text](https://raw.githubusercontent.com/sarayapsulit/phase-0-gps-1/master/gps_screenshot_1.png)`
 
 
-hello
 
