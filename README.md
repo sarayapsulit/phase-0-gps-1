@@ -11,7 +11,7 @@
 * `ls` lists the regular files in the working directory
 * `git add .` adds the files from the working directory and all sub-directories (stages the files for commit)
 * `git commit -m` creates a save point, with a specific message about the changes that were made
-*` git status` shows modified files, staged files, untracked files
+* `git status` shows modified files, staged files, untracked files
 * `git push origin [branch]` sends the given branch to the remote repository in GitHub, to be reviewed in GitHub via pull request
 * `git checkout -b [name of new branch]` creates a new branch and checks it out
 * `open readme.md` open up the given file for editing, in the default application
